@@ -1,0 +1,11 @@
+===== Digital Book Inventory System =====
+Enter Book Title: C++ Programming
+Enter Author Name: Bjarne Stroustrup
+Enter ISBN: 9780321563842
+Enter Price: 599
+
+----- Book Information -----
+Title : C++ Programming
+Author : Bjarne Stroustrup
+ISBN : 9780321563842
+Price : 599
